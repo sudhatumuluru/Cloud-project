@@ -6,7 +6,7 @@ Install Ruby- 2.2.1 and rails 4.2.4 (But by default 4.2.5 is being installed)
           (When downloading ruby select 4.2.1 from archives)
           -> Install DevKit to install rubyGem. Separate installation of rubyGem has an error hence rails are not installed properly
     -> Rails
-      Use command  gem install rails. 
+      Use command  gem install rails -v 4.2.4. 
       Rails will be installed automatically.
       
     -> Check installation
